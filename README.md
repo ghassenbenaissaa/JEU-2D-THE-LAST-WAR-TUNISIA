@@ -3,7 +3,7 @@
 > A 2D side-scrolling adventure game set in Tunisia, inspired by the Star Wars filming locations across the Tunisian landscape — from the deserts of Tozeur to the island of Djerba.
 
 <p align="center">
-  <img src="game/assets/images/back_play.jpg" alt="Main Menu" width="700"/>
+  <img src="game/assets/images/back_play.png" alt="The Last War: Tunisia" width="800"/>
 </p>
 
 ## About
@@ -24,6 +24,31 @@ But extraterrestrial forces have discovered its location. When the ancient secur
 
 The journey takes you through real Tunisian geography and monuments, paying homage to the same landscapes that served as filming locations for the Star Wars saga. Your mission: reach Djerba safely, solving ancient riddles and fighting off enemies along the way.
 
+## Screenshots
+
+### Storyline — Cinematic Cutscenes
+
+<p align="center">
+  <img src="game/assets/img/ph8.png" alt="Story - Mission briefing" width="800"/>
+</p>
+<p align="center"><i>The mission is revealed: transfer the data to the base of Djerba</i></p>
+
+<p align="center">
+  <img src="game/assets/img/ph13.png" alt="Story - Djerba map" width="800"/>
+</p>
+<p align="center"><i>The ancient map of Djerba Island and its defense systems</i></p>
+
+### Menu System
+
+<p align="center">
+  <img src="game/assets/images/main_menu.jpg" alt="Settings - Sound & Display" width="400"/>
+  <img src="game/assets/images/in_settings.png" alt="Settings Menu" width="400"/>
+</p>
+<p align="center">
+  <img src="game/assets/images/menuwesstjeu.png" alt="In-Game Pause Menu" width="400"/>
+  <img src="game/assets/sprites/in_credit.png" alt="Credits Screen" width="400"/>
+</p>
+
 ## Features
 
 | Feature | Description |
@@ -38,13 +63,6 @@ The journey takes you through real Tunisian geography and monuments, paying homa
 | **Split-Screen Multiplayer** | Local 2-player mode with independent cameras and collision |
 | **Sound System** | Background music per level + sound effects, with adjustable volume (0/25/50/75/100%) |
 | **Fullscreen Toggle** | Switch between windowed and fullscreen modes |
-
-## Screenshots
-
-<p align="center">
-  <img src="game/assets/images/menu settings.jpg" alt="Settings Menu" width="400"/>
-  <img src="game/assets/images/enigmes.png" alt="Enigma Puzzle" width="400"/>
-</p>
 
 ## Getting Started
 
@@ -125,6 +143,16 @@ make clean
 | **SDL_mixer** | Audio playback (MP3, WAV) |
 | **GCC** | Compilation |
 | **Make** | Build system |
+
+## Team
+
+| Role | Name |
+|------|------|
+| **Director** | Ghassen Ben Aissa |
+| **Producer** | Oumayma Hashaoui |
+| **Screenplay** | Chayna Mabrouk |
+| **Music** | Imen Belhoula |
+| **Cast — Dracula** | Wided Ben Issi |
 
 ## License
 
