@@ -3,7 +3,7 @@
 > A 2D side-scrolling adventure game set in Tunisia, inspired by the Star Wars filming locations across the Tunisian landscape — from the deserts of Tozeur to the island of Djerba.
 
 <p align="center">
-  <img src="game/assets/images/main_menu.jpg" alt="Main Menu" width="700"/>
+  <img src="game/assets/images/back_play.jpg" alt="Main Menu" width="700"/>
 </p>
 
 ## About
